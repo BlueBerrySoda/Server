@@ -1,0 +1,31 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueBerrySoda/Server.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "BlueBerrySoda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueBerrySoda/Server/issues"
+  },
+  "homepage": "https://github.com/BlueBerrySoda/Server#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.30.0",
+    "@typescript-eslint/parser": "^2.30.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^6.2.2"
+  },
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
